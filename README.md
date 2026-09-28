@@ -80,4 +80,4 @@ Insight Discovery
 
 ## Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/198i9Lgr0payzoHO4KSROkph22vuE4x-T/view?usp=sharing)
